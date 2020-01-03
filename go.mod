@@ -1,4 +1,4 @@
-module gitlab.com/mainmast/microservices/cm-http.git
+module github.com/mainmast/httpm
 
 require (
 	github.com/buaazp/fasthttprouter v0.1.1
