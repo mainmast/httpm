@@ -1,4 +1,4 @@
-module github.com/mainmast/httpm
+module github.com/mainmast/httpm.git
 
 require (
 	github.com/buaazp/fasthttprouter v0.1.1
